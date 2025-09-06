@@ -1,0 +1,128 @@
+Milestone 1 – Team Information/Team Communication/Work Plan (Week 1)
+o The first step is to determine if you are doing the project independently or as a team.
+Teams can have 3 students max. Based on this decision, follow the below instructions
+for submission.
+o Team Project Requirements:
+ Submit team member names
+ Determine your method of communication as a team (Slack, Teams, Discord,
+Skype, etc.)
+ Provide high level plan for tackling the project as a team
+o Independent Project Requirements:
+ If you are working independently, craft a rough project plan for how you will
+accomplish each milestone and task, what your project work schedule will be
+like, etc.
+ If you are working independently, you need to create a thread in the
+discussion board “Course Project Deliverables” – you will use this thread
+the remainder of the course for other independent team members to be able
+to review your work. Failure to do this, will result in your inability to
+complete a peer review.
+o Submit the requirements to the assignment link provided. This information will be used
+for the instructor to create a group within Blackboard that will have a location for
+assignment submission and a group discussion board. If you are working independently,
+you will still have a group created for you, but will only be visible by you and the
+instructor.
+o This is the only milestone that won’t be submitted via your group.
+o Start discussing your topic and dataset as a team, as this will be due the following week.
+
+Milestone 2 – Data Selection and Project Proposal (Week 2)
+o Data selection and your project proposal are due this week. While you might determine
+to add additional data sources as the project progresses, you should have a good idea of
+your initial dataset by this milestone.
+o The project proposal should include the following information:
+ Introduction
+ Background
+ Problem Statement
+ Scope
+ Document Overview
+ Preliminary Requirement (summary of what is required to proceed, data required,
+business processes that need to be in place, assumptions, etc.)
+ Technical Approach
+ Data sources or plan for data
+ Analysis
+ Requirement Development (What would you need technically in place
+for this to work, do you have to build anything, initial work that would
+need to be done)
+ Model Deployment
+ Testing and Evaluation
+ Expected Results
+ Execution and Management of Project
+ Project Plan
+ Project Risk
+o The proposal should be 5-7 pages long, double spaced. Margins should be 1-inch top,
+bottom, left, and right. Use any font that is suitable for a professional paper and use 12-
+point type. Remember it is just the initial proposal – your findings might take you in a
+different direction for the final submission.
+o This should be submitted through the group assignment submission regardless if it is an
+independent project or multi-person group.
+o If you are working independently, you will also need to reply to your thread in the
+discussion board “Course Project Deliverables” with this assignment– you will use
+this thread the remainder of the course for other independent team members to be
+able to review your work.
+
+
+
+Milestone 3 – Preliminary Analysis (Week 5)
+o The Preliminary analysis should follow the following format as this is the format of your
+final paper.
+ Abstract
+ Intro/background of the problem
+ Methods
+ Results
+ Discussion/conclusion
+ Acknowledgments
+ References
+o You should be able to complete some of the intro/background of the problem, methods,
+preliminary results, and discussion. I understand that some of this information can change
+over the next few weeks, but it is better to start your Master Doc now instead of waiting
+until the end of the semester.
+o This should be submitted through the group assignment submission regardless if it is an
+independent project or multi-person group.
+o If you are working independently, you will also need to reply to your thread in the
+discussion board “Course Project Deliverables” with this assignment– you will use
+this thread the remainder of the course for other independent team members to be
+able to review your work.
+
+Milestone 4 – Project Presentation & Status (Week 9)
+o In this milestone, each team should present the intermediate results of their project. A
+deck of slides that describes the steps of the analysis up to this point should be prepared.
+The goal of this presentation is to describe the contributions toward the completion of the
+project, and to discuss the issues, challenges encountered during the work, and future
+plans to complete the analysis. When building this presentation, assume an executive
+level audience (8-15 slides max) and that they have minimal knowledge of the topic.
+o This should be submitted through the group assignment submission regardless if it is an
+independent project or multi-person group.
+o If you are working independently, you will also need to reply to your thread in the
+discussion board “Course Project Deliverables” with this assignment– you will use
+this thread the remainder of the course for other independent team members to be
+able to review your work.
+
+
+
+
+Milestone 5 – Final project paper and presentation (Week 12)
+o Course Presentation:
+ Each team should prepare a presentation to describe the results of the analytics
+project and use of the concepts and methods taught throughout the course.
+Presentations should be 15-20 minutes in length. The presentation will be
+recorded and submitted through Blackboard. The presentation is due by Thursday
+at midnight. Audio, not video is required.
+o Course Final Paper:
+ The final paper should be 8-10 pages double spaced in length not including
+figures and tables. The executive summary should be no longer than one
+typewritten page, describing the conclusions of your data analysis to a nontechnical
+audience. It should be intelligible to a person who does not know data
+mining or machine learning techniques. Suppose you are talking to your boss or
+to a friend who is not familiar with statistical terminology and data science
+methods. This can be seen as the executive summary/introduction of your report.
+ The technical report should follow. The technical report should include an
+intro/background of the problem, methods, results, discussion/conclusion and
+acknowledgments, references, in that order. Clearly state the problem you have
+chosen to investigate. List the resources you used to come up with the project and
+reference all sources you used to complete the project. This section is intended
+for a technical audience and must be written in a clear organized fashion.
+o Margins should be 1-inch top, bottom, left, and right. Use any font that is suitable for a
+professional paper and use 12-point type. The final paper is due by Saturday at midnight.
+o If you are working independently, you will also need to reply to your thread in the
+discussion board “Course Project Deliverables” with this assignment– you will use
+this thread the remainder of the course for other independent team members to be
+able to review your work.
